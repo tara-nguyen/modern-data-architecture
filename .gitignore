@@ -2,3 +2,4 @@
 .idea
 .DS_Store
 spark-warehouse
+external
